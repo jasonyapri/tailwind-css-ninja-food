@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jasonyapri/tailwind-css-ninja-food/issues"
   },
-  "homepage": "https://github.com/jasonyapri/tailwind-css-ninja-food#readme"
+  "homepage": "https://github.com/jasonyapri/tailwind-css-ninja-food#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.9"
+  }
 }
